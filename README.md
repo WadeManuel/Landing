@@ -1,5 +1,5 @@
-# Landing
- Presentation landing of the crypto world
+# Landing page
+ Presentation landing page of the crypto world
  
 ##Description 
 It is a landing presentation about the crypto world
